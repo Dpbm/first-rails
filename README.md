@@ -1,24 +1,13 @@
-# README
+# First look at ruby on rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## this is my first hello world with ruby on rails
 
-Things you may want to cover:
 
-* Ruby version
+to start
+```bash
+    git clone https://github.com/Dpbm/first-rails.git
+    cd first-rails
+    bin/rails server
+```
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Made with 🥰 by [Dpbm](https://github.com/Dpbm)
